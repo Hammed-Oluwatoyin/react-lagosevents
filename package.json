@@ -26,12 +26,14 @@
     "react-scripts": "3.3.1",
     "redux": "^4.0.5",
     "redux-auth-wrapper": "^3.0.0",
+    "redux-devtools-extension": "^2.13.8",
     "redux-firestore": "^0.12.0",
     "redux-form": "^8.3.0",
     "redux-thunk": "^2.3.0",
     "revalidate": "^1.2.0",
     "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^0.88.2"
+    "semantic-ui-react": "^0.88.2",
+    "source-map-explorer": "^2.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
